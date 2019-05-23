@@ -1,0 +1,2 @@
+# stuff
+Generic stash repo
